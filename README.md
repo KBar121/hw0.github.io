@@ -1,3 +1,5 @@
+Host: https://kbar121.github.io/hw0.github.io/
+
 ## Elements I Added
 - `<h2>` secondary heading (“About Me”)
 - `<p id="intro">` paragraph (uses `id` attribute)
@@ -12,4 +14,5 @@
 
 ## CSS / JS
 - Linked CSS via `<link rel="stylesheet" href="style.css">`
+
 - Set paragraph color (e.g., `p { color: darkblue; }`)
